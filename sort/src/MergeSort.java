@@ -27,8 +27,6 @@ public class MergeSort {
         while(p2 <= r){
             arr[i++] = nums[p2++];
         }
-        for(int j = 0;j < arr.length;j++){
-            nums[l + j] = arr[j];
-        }
+        System.arraycopy(arr,0,nums,l,arr.length);
     }
 }
