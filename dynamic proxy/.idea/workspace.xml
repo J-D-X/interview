@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad573dd7-da78-4700-bc6e-c9f2dfea2d47" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/hfk/DebugInvocationHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hfk/JdkProxyFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hfk/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hfk/SmsService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hfk/impl/SmsServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,8 +30,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RunManager">
@@ -66,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677155815745</updated>
-      <workItem from="1677155816908" duration="693000" />
+      <workItem from="1677155816908" duration="1899000" />
     </task>
     <servers />
   </component>
